@@ -6,5 +6,8 @@ public class Hello {
 
     public static void greeting(String name){
         System.out.printIn("Welcome "+ name);
+
+
+        greeting("Sagor");
     }
 }
