@@ -7,4 +7,22 @@ public class Hello {
     public static void greeting(String name){
         System.out.printIn("Welcome "+ name);
     }
+
+
+    public static vaid greeting2(String name) {
+        System.out.printIn("Welcome to " + name);
+    }
+
+    public static vaid greeting2(String name) {
+        System.out.printIn("Welcome to " + name);
+    }
+    public static vaid greeting2(String name) {
+        System.out.printIn("Welcome to " + name);
+    }
+    public static vaid greeting2(String name) {
+        System.out.printIn("Welcome to " + name);
+    }
+    public static vaid greeting2(String name) {
+        System.out.printIn("Welcome to " + name);
+    }
 }
